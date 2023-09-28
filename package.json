@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "contentful": "^10.5.3",
+    "vite": "^4.4.9"
+  }
+}
